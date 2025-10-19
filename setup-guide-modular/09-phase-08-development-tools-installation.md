@@ -17,7 +17,7 @@ asdf install python latest
 asdf set -u python latest
 ```
 
-#### Node.js and Deno
+#### Node.js, Deno, and Bun
 ```bash
 asdf plugin add nodejs
 asdf plugin add deno
@@ -78,4 +78,6 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 source ~/.cargo/env
 ```
 > 🧩 Go and Rust are installed via their native tools for best compatibility.
+
+---
 

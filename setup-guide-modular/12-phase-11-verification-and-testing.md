@@ -53,3 +53,5 @@ http https://httpbin.org/get
 ```
 > ✅ Confirm all Dracula colors appear correctly and your prompt loads with Starship.
 
+---
+
